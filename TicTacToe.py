@@ -11,7 +11,7 @@ game_still_going = True
 # Who won? Or tie?
 winner = None
 
-# Whos turn is it
+# Who's turn is it
 current_player = "X"
 
 # Display board
